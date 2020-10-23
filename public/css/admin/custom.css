@@ -1,0 +1,60 @@
+.login_error 
+{
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 10pt;
+	color: #5984C8;
+	font-weight:bold;
+	padding: 10px 10px 10px 10px;
+}
+.d_logo
+{
+	background:#eff0f4 !important;
+	padding-left:20px;
+}
+.login-wrap input.error
+{
+	border-color:#FF6C60;
+}
+.form-group select.error
+{
+	border-color:#FF6C60;
+}
+
+/*Product image*/
+.img-block{
+	widht:100px;
+	height:100px;
+	display:inline-block;
+	position:relative;
+	margin-bottom:5px;
+}
+.img-block img{
+	width:100px;
+	height:100px;
+}
+.img-block a{
+	position:absolute;
+	top:2px;
+	right:2px;
+	background:url("../../images/admin/delete_uploader.png") center center no-repeat rgba(0,0,0,0.5);;
+	width:20px;
+	height:20px;
+	z-index:99;
+	cursor:pointer;
+}
+/*Product image*/
+
+/*contact us map*/
+.contact_map > input 
+{
+    background-color: #fff;
+    border: 1px solid #bbb;
+    left: 470px;
+    padding: 5px;
+    position: absolute;
+    top: 50px;
+    z-index: 1;
+}
+/*contact us map*/
+
+	
